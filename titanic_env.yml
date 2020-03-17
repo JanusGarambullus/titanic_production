@@ -1,0 +1,7 @@
+name: titanic_environment
+dependencies:
+    - python=3.7
+    - numpy=1.18.*
+    - pandas=0.25.*
+    - scikit-learn=0.22.*
+    
